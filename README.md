@@ -1,0 +1,1 @@
+# arabic_receipt_posbox_less

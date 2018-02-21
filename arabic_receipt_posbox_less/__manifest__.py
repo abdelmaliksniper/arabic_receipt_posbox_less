@@ -13,7 +13,7 @@
     'website': "",
     'category': 'Generic Modules',
     'version': '1.0',
-    'price': 350.0,
+    'price': 130.0,
     'currency': 'EUR',
     'depends': ['point_of_sale'],
 
